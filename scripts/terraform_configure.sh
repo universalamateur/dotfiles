@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if command -v /usr/bin/terraform &> /dev/null; then
     exit
 fi
